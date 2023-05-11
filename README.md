@@ -63,7 +63,7 @@ gem install
 ```
 - To run this project on your local machine `Enter` the below command
 ```
-ruby decode.rb
+ruby my_list.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
